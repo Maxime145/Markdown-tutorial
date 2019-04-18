@@ -58,9 +58,7 @@ Résultat :
 | Github | C'est génial |
 | Google Analytics | C'est compliqué |
 
-
 --------------------------------------------------------------------------------
 [étapes]: <https://github.com/Trenacia/-Get-an-image-link/blob/master/README.md>
 [Markdown]: <https://guides.github.com/features/mastering-markdown/>
 [embed youtube]: <http://embedyoutube.org/>
---------------------------------------------------------------------------------
