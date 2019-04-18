@@ -51,6 +51,20 @@ Résultat :
   + Item 2.1
     * Item 2.1.1
 
+## Spoiler texte
+```
+<details>
+  <summary>Titre</summary>
+  
+  Contenu...
+</details>
+```
+Résultat : 
+<details>
+  <summary>Titre</summary>
+  
+  Contenu...
+</details>
 
 ## Tableaux
 | Plugin | README |
