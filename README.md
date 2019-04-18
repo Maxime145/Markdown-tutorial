@@ -2,7 +2,6 @@
 
 ## Commentaires
 Pour faire un bloc (de commentaire ou de citation) vous devez écrire : `> Mon commentaire`
-Résultat :
 > Mon commentaire
 
 ## Liens
@@ -31,6 +30,7 @@ Exemple :
 >`[![](http://img.youtube.com/vi/`__*ID OF VIDEO*__`/0.jpg)](https://www.youtube.com/watch?v=` __*o77MzDQT1cg*__ `"")`
 
 Résultat :
+
 [![](http://img.youtube.com/vi/o77MzDQT1cg/0.jpg)](http://www.youtube.com/watch?v=o77MzDQT1cg "")
 
 Si vous le souhaitez, vous pouvez convertir facilement le lien youtube en image grâce à [embed youtube] 
