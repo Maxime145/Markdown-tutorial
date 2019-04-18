@@ -8,19 +8,19 @@ Résultat :
 ## Liens
 ### Texte
 ##### Solution 1
-`[My Link](https://github.com/)`
-Résultat : [My Link](https://github.com/)
+- `[My Link](https://github.com/)`
+-  Résultat : [My Link](https://github.com/)
 
 ##### Solution 2
-Déclarer le lien : `[Markdown]: <https://guides.github.com/features/mastering-markdown/>`
-Appelez le lien `[Markdown]`
-Résultat : [Markdown]
+- Déclarer le lien : `[Markdown]: <https://guides.github.com/features/mastering-markdown/>`
+- Appelez le lien `[Markdown]`
+- Résultat : [Markdown]
 > Pratique pour éviter d'alourdir la lecture du code
 
 ### Images
 ##### Fixe ou Gif
-`[![Nom du lien](Lien de votre image)](Lien vers lequel rediriger en cas de clique sur l'image)`
-Résultat : [![Home](https://image4.owler.com/logo/web-savvy-marketing_owler_20160228_232231_large.png)](https://github.com/)
+- `[![Nom du lien](Lien de votre image)](Lien vers lequel rediriger en cas de clique sur l'image)`
+-  Résultat : [![Home](https://image4.owler.com/logo/web-savvy-marketing_owler_20160228_232231_large.png)](https://github.com/)
 > Si votre image est sur votre ordinateur vous pouvez suivre ces [étapes] afin d'obtenir un lien.
 
 ##### Youtube
@@ -31,7 +31,7 @@ Exemple :
 >`[![](http://img.youtube.com/vi/`__*ID OF VIDEO*__`/0.jpg)](https://www.youtube.com/watch?v=` __*o77MzDQT1cg*__ `"")`
 
 Résultat :
-> [![](http://img.youtube.com/vi/o77MzDQT1cg/0.jpg)](http://www.youtube.com/watch?v=o77MzDQT1cg "")
+[![](http://img.youtube.com/vi/o77MzDQT1cg/0.jpg)](http://www.youtube.com/watch?v=o77MzDQT1cg "")
 
 Si vous le souhaitez, vous pouvez convertir facilement le lien youtube en image grâce à [embed youtube] 
 ## Listes
