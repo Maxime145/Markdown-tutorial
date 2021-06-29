@@ -47,6 +47,9 @@ Vous pouvez utiliser le `-`, le `+` ou l'`*`. L'utilisation et le résultat sera
 > Il ne faut pas oublier de faire `2 espaces` avant chaque ligne pour définir un `sous item`
 
 Résultat :
+- Item 1
+  - Item 1.1
+    - Item 1.1.1
 - Item 2
   + Item 2.1
     * Item 2.1.1
