@@ -28,7 +28,7 @@ Pour faire un bloc (de commentaire ou de citation) vous devez écrire : `> Mon c
 
 - `[![Nom du lien](Lien de votre image)](Lien vers lequel rediriger en cas de clique sur l'image)`
 -  Résultat : [![Home](https://image4.owler.com/logo/web-savvy-marketing_owler_20160228_232231_large.png)](https://github.com/)
-> Si votre image est sur votre ordinateur vous pouvez suivre ces [étapes] afin d'obtenir un lien.
+> Si votre image est sur votre ordinateur vous pouvez simplement glisser/déposer votre image, un lien va se créer directement.
 
 ##### Youtube
 
