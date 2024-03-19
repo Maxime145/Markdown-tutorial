@@ -36,10 +36,10 @@ Syntaxe :
 > `[![Nom de l'image](Lien de l'image youtube)](Lien de la vidéo "Nom de la vidéo")`
 
 Exemple :
->`[![](http://img.youtube.com/vi/`__*ID OF VIDEO*__`/0.jpg)](https://www.youtube.com/watch?v=` __*o77MzDQT1cg*__ `"")`
+>`[![](http://img.youtube.com/vi/`__*ID OF VIDEO*__`/0.jpg)](https://www.youtube.com/watch?v=`__*ID OF VIDEO*__`"Un nom customisé")`
 
 Résultat :
-[![](http://img.youtube.com/vi/o77MzDQT1cg/0.jpg)](http://www.youtube.com/watch?v=o77MzDQT1cg "")
+[![](http://img.youtube.com/vi/o77MzDQT1cg/0.jpg)](http://www.youtube.com/watch?v=o77MzDQT1cg "Super vidéo de Hytale")
 
 Si vous le souhaitez, vous pouvez convertir facilement le lien youtube en image grâce à [embed youtube] 
 
